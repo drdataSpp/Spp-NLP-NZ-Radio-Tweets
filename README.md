@@ -25,7 +25,7 @@
 
 <img src="https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20Magic%20Talks%20Radio/Bar%20Chart%20-%20MT.png" width="600" height="400"/>
 
-**1.3 Word Cloud:**
+**1.3 Popular Topics discussed by Magic Talks Radio:**
 
 <img src="https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20Magic%20Talks%20Radio/Word%20Cloud%20-%20MT.png" width="600" height="500"/>
 
