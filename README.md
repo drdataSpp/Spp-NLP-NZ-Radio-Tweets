@@ -34,3 +34,21 @@
 <hr></hr>
 <hr></hr>
 
+## Project 2: NLP & Text Mining on News Talk Radio's Tweets.
+
+**2.1 Sentiment Pie Chart:**
+
+<img src="https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20News%20Talk%20ZB/Pie%20-%20NT.png" width="600" height="500"/>
+
+**2.2 Emotions Bar Chart:**
+
+<img src="https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20News%20Talk%20ZB/Bar%20-%20NT.png" width="600" height="400"/>
+
+**2.3 Popular Topics discussed by News Talk Radio:**
+
+<img src="https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20News%20Talk%20ZB/WC%20-%20NT.png" width="600" height="500"/>
+
+[**2.4 Project 2 R Script**](https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20News%20Talk%20ZB/R%20-%20NLP%20News%20Talk%20ZB.R)
+
+<hr></hr>
+<hr></hr>
