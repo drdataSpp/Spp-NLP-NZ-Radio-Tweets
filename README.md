@@ -52,3 +52,19 @@
 
 <hr></hr>
 <hr></hr>
+
+## Project 3: NLP & Text Mining on Radio New Zealand Tweets.
+
+**3.1 Sentiment Pie Chart:**
+
+<img src="https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20Radio%20NZ/Pie%20-%20RNZ.png" width="600" height="500"/>
+
+**3.2 Emotions Bar Chart:**
+
+<img src="https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20Radio%20NZ/Bar%20-%20RNZ.png" width="600" height="400"/>
+
+**3.3 Popular Topics discussed by Radio New Zealand:**
+
+<img src="https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20Radio%20NZ/WC%20-%20RNZ.png" width="600" height="500"/>
+
+[**3.4 Project 3 R Script**](https://github.com/drdataSpp/Spp-NLP-NZ-Radio-Tweets/blob/master/NLP%20-%20Radio%20NZ/R%20-%20NLP%20Radio%20NZ.R)
